@@ -2,7 +2,7 @@ import os
 
 class Config:
 
-   	NEWS_SOURCES_BASE_URL ='https://newsapi.org/v2/sources?language=en&category={}&apiKey=2f8fdf876f8541de9db2361b07324d3a'
+   	NEWS_SOURCES_BASE_URL ='https://newsapi.org/v2/sources?language=en&category={}&apiKey=29a5a80900d24fb39ac2cd1a45071113'
    	ARTICLES_BASE_URL = 'https://newsapi.org/v2/everything?language=en&sources={}&apiKey={}'
    	NEWS_API_KEY = os.environ.get('NEWS_API_KEY')
    	@staticmethod

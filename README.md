@@ -47,9 +47,8 @@ A computer running on either Windows, MacOS or Ubuntu operating system installed
 - Python v3.6
 - Boostrap
 - Flask
-- License
-- MIT License
 
+# Lisence
 - Copyright (c) 2021 Peter Anami
 
 - Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
